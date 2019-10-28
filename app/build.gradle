@@ -10,8 +10,8 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        buildConfigField "String", "BASE_URL", '"http://10.45.2.60:8080/diceware/"'
-        buildConfigField "String", "CLIENT_ID", '"250745552645-gddn5agvhsnl8klqbj0nvoqr61k36c9l.apps.googleusercontent.com"'
+        buildConfigField "String", "BASE_URL", '"http://10.46.2.228:8080/diceware/"'
+        buildConfigField "String", "CLIENT_ID", '"19491713447-p5398toeop32b1mloh7pg5pft5hm57t4.apps.googleusercontent.com"'
     }
     buildTypes {
         release {
